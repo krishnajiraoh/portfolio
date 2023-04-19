@@ -6,112 +6,47 @@ layout: default
 
 ---
 
-## Machine learning
+## Projects
 
-### Fraud Detection
+### 1. My Crypto World
 
-Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorised financial activity. This may include fraudulent credit card transactions, identity theft, cyber hacking, insurance scams and more.
+My Crypto World is a personal project for tracking, forecasting and for performing automated technical analysis on my favorite cryptocurrencies price data.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/fraud_detection)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/krishnajiraoh/my-crypto-world)
 
-### Header 3
+### 2. Lending Club Case Study
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+The project aims to analyse the past data of a lending company, to draw meaningful insights which would help to manage its portfolio better and thereby improving its overall revenue.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/krishnajiraoh/upGrad_lending_club_case_study)
 
-#### Header 4
+### 3. BoomBikes
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+The project aims to analyse and model the past data from a US bike-sharing provider, BoomBikes. It can be used by the management to understand how exactly the demands vary with different features.
 
-##### Header 5
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/krishnajiraoh/upGrad_linear_regression_assignment)
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+### 4. Australian House Price Prediction
+The project combines Linear Regression with Lasso & Ridge regularizations to predict Australian House Prices
 
-###### Header 6
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/krishnajiraoh/upGrad_telecom_churn_case_study_group)
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+### 5. Handwritten Digits Classifier
 
-### There's a horizontal rule below this.
+Handwritten Digits Classifier
 
-* * *
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/krishnajiraoh/handwritten-digits-classifier)
 
-### Here is an unordered list:
+[![Demo App]()](https://krishnajiraoh-handwritten-digits-classifier-classifier-d4jj3c.streamlit.app/)
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+### 6. Cricket Ball Tracker
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/krishnajiraoh/cricket-ball-tracker)
 
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+[![Demo App]()]()
 
 
-### Definition lists can be used with HTML syntax.
+## My Learning Materials
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+- [Machine Learning](https://github.com/krishnajiraoh/machine-learning)
+- [Deep Learning](https://github.com/krishnajiraoh/deep-learning)
+- [Introduction to Blockchain](https://github.com/krishnajiraoh/blockchain)
