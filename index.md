@@ -42,7 +42,7 @@ Handwritten Digits Classifier
 ### 6. Cricket Ball Tracker
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/krishnajiraoh/cricket-ball-tracker)
 
-[![Demo App]()]()
+<!-- [![Demo App]()]() -->
 
 
 ## My Learning Materials
