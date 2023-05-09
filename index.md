@@ -48,11 +48,9 @@ Chest X-Ray Classifier
 <!-- [![Demo App]()]()  -->
 
 ### 7. Power lines Detector
-
-Power lines Detector
-
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/krishnajiraoh/powerlines-detector)
 
+Power lines Detector
 [Demo App](https://krishnajiraoh-powerlines-detector-powerlinedetector-mj2h4k.streamlit.app/)
 
 ### 8. Cricket Ball Tracker
