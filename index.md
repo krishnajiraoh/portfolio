@@ -39,7 +39,21 @@ Handwritten Digits Classifier
 
 [![Demo App]()](https://krishnajiraoh-handwritten-digits-classifier-classifier-d4jj3c.streamlit.app/)
 
-### 6. Cricket Ball Tracker
+### 6. Chest X-Ray Classifier
+
+Chest X-Ray Classifier
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/krishnajiraoh/cxr-classification)
+
+<!-- [![Demo App]()]()  -->
+
+### 7. Power lines Detector
+
+Power lines Detector
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/krishnajiraoh/powerlines-detector)
+
+### 8. Cricket Ball Tracker
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/krishnajiraoh/cricket-ball-tracker)
 
 <!-- [![Demo App]()]() -->
