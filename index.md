@@ -50,7 +50,7 @@ Chest X-Ray Classifier
 ### 7. Power lines Detector
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/krishnajiraoh/powerlines-detector)
 
-Power lines Detector
+Power lines Detector <br>
 [Demo App](https://krishnajiraoh-powerlines-detector-powerlinedetector-mj2h4k.streamlit.app/)
 
 ### 8. Cricket Ball Tracker
@@ -58,6 +58,13 @@ Power lines Detector
 
 <!-- [![Demo App]()]() -->
 
+### 9. Drift Detector
+
+Drift Detector
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/krishnajiraoh/drift-detection)
+
+<!-- [![Demo App]()]() -->
 
 ## My Learning Materials
 
