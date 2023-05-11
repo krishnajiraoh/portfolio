@@ -29,7 +29,7 @@ The project aims to analyse and model the past data from a US bike-sharing provi
 ### 4. Australian House Price Prediction
 The project combines Linear Regression with Lasso & Ridge regularizations to predict Australian House Prices
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/krishnajiraoh/upGrad_telecom_churn_case_study_group)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/krishnajiraoh/upGrad_advanced_regression_assignment)
 
 ### 5. Handwritten Digits Classifier
 
@@ -65,6 +65,12 @@ Drift Detector
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/krishnajiraoh/drift-detection)
 
 <!-- [![Demo App]()]() -->
+
+### 10. Telecome Churn Prediction
+
+Telecome Churn Prediction
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/krishnajiraoh/upGrad_telecom_churn_case_study_group)
 
 ## My Learning Materials
 
